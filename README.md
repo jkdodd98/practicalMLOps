@@ -1,0 +1,2 @@
+# practicalMLOps
+Exercises from practicalMLOps
